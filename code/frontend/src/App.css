@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(45deg, blue, pink, green, yellow, purple);
+  font-family: Arial, sans-serif;
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.blog-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.blog-card .tags {
+  display: flex;
+  gap: 10px;
+}
+
+.tag {
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+form input, form textarea, form button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+form button {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}

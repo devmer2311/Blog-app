@@ -18,6 +18,9 @@ The task is to create a **Blog Posts** that allows users to manage blog entries 
 
 ![Task Output Screenshot 2](./2.jpeg)
 
+3. **Create Blog Page**:  
+   
+![Task Output Screenshot 3](./3.jpeg)
 ---
 
 ## 3. Widget/Algorithm Used In Task
